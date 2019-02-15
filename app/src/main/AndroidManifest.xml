@@ -20,6 +20,7 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        // this is not a hello world thing my dia its a how are you dia
     </application>
 
 </manifest>
